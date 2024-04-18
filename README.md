@@ -1,0 +1,3 @@
+## Transfer Learning Implementation
+
+El objetivo de este proyecto es hacer una investigación sobre machine learning, especialmente deep learning, e implementar una red neuronal para pode procesar imágenes. Este proyecto procesará imágenes mediante el uso de la arquitectura ResNet34 para una red neuronal convolucional, la cual será modificada mediante la técnica de find tuning de transfer learning. El proyecto está enfocado en detectar 6 situaciones de emergencia (riesgo de inundación, incendio, accidente automovilístico, robo de auto, altercado) y producir su clasificación y departamento de respuesta.
